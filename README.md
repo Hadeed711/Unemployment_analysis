@@ -28,7 +28,7 @@ The dataset includes the following variables:
 - Matplotlib & Seaborn (data visualization)  
 
 ## 📌 Key Insights
-1. Unemployment remained between 5–7% for most years but rose sharply during Covid-19 (2020–2021).  
+1. Unemployment remained between 5–7% for most years but rose sharply during Covid-19 (2020–2021)
 2. Higher GDP growth is associated with lower unemployment.  
 3. Higher unemployment aligns with higher poverty ratios.  
 4. Social spending and policy measures play a key role in mitigating unemployment shocks
